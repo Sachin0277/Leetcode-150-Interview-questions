@@ -1,4 +1,21 @@
-# Leetcode 150 Interview Questions
+<p align="center">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Logo" width="120"/>
+</p>
+
+<h1 align="center">Leetcode 150 Interview Questions</h1>
+
+<p align="center">
+    <b>Java Solutions & Explanations for the Top 150 Leetcode Interview Questions</b><br>
+    <i>Master data structures and algorithms for your next technical interview!</i>
+</p>
+
+<p align="center">
+    <a href="#table-of-contents">Table of Contents</a> •
+    <a href="#progress">Progress</a> •
+    <a href="#contributing">Contributing</a>
+</p>
+
+--- Leetcode 150 Interview Questions
 
 This repository contains solutions and explanations for the top 150 Leetcode interview questions, solved in **Java**. These problems are commonly asked in technical interviews and are essential for mastering data structures and algorithms.
 
