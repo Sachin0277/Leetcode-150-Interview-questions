@@ -1,0 +1,44 @@
+# Leetcode 150 Interview Questions
+
+This repository contains solutions and explanations for the top 150 Leetcode interview questions, solved in **Java**. These problems are commonly asked in technical interviews and are essential for mastering data structures and algorithms.
+
+## Table of Contents
+
+- [Array](#array)
+- [String](#string)
+- [Linked List](#linked-list)
+- [Tree](#tree)
+- [Graph](#graph)
+- [Dynamic Programming](#dynamic-programming)
+- [Stack & Queue](#stack--queue)
+- [Math & Bit Manipulation](#math--bit-manipulation)
+- [Others](#others)
+
+## How to Use
+
+- Each problem includes:
+    - Problem description (link to Leetcode)
+    - Solution (in Java)
+    - Explanation and approach
+
+## Progress
+| #  | Problem Name                        | Solution File(s)                        | Status   |
+|----|-------------------------------------|-----------------------------------------|----------|
+| 1  | Merge Sorted Array                  | Day-01/MergeSortedArray.java            | ✅ Solved |
+| 2  | Remove Element                      | Day-01/RemoveElement.java               | ✅ Solved |
+| 3  | Remove Duplicates from Sorted Array | Day-02/RemoveDuplicateFromSortedArray.java | ✅ Solved |
+| 4  | Remove Duplicates from Sorted Array II | Day-02/RemoveDuplicateFromSortedArrayII.java | ✅ Solved |
+
+*This table will be updated as more solutions are added.*
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for improvements or additional solutions.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Happy Coding!
