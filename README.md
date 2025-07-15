@@ -53,6 +53,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 2   | Remove Element                         | Day-01/RemoveElement.java                    | ✅ Solved |
 | 3   | Remove Duplicates from Sorted Array    | Day-02/RemoveDuplicateFromSortedArray.java   | ✅ Solved |
 | 4   | Remove Duplicates from Sorted Array II | Day-02/RemoveDuplicateFromSortedArrayII.java | ✅ Solved |
+| 5   | Rotate Array                           | Day-03/RotateArray.java                      | ✅ Solved |
+| 6   | Majority Element                       | Day-03/MajorityElement.java                  | ✅ Solved |
 
 _This table will be updated as more solutions are added._
 
