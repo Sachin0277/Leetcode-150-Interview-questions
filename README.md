@@ -55,6 +55,9 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 4   | Remove Duplicates from Sorted Array II | Day-02/RemoveDuplicateFromSortedArrayII.java | ✅ Solved |
 | 5   | Rotate Array                           | Day-03/RotateArray.java                      | ✅ Solved |
 | 6   | Majority Element                       | Day-03/MajorityElement.java                  | ✅ Solved |
+| 7   | Best Time to Buy and Sell Stocks       | Day-04/BestTimeToBuyAndSellStock.java        | ✅ Solved |
+| 8   | Best Time to Buy and Sell Stocks II    | Day-04/BestTimeToBuyAndSellStockII.java      | ✅ Solved |
+
 
 _This table will be updated as more solutions are added._
 
