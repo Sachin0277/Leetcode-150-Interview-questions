@@ -58,7 +58,9 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 7   | Best Time to Buy and Sell Stocks       | Day-04/BestTimeToBuyAndSellStock.java        | ✅ Solved |
 | 8   | Best Time to Buy and Sell Stocks II    | Day-04/BestTimeToBuyAndSellStockII.java      | ✅ Solved |
 | 9   | Jump Game                              | Day-05/JumpGame.java                         | ✅ Solved |
-| 9   | Jump Game II                           | Day-05/JumpGameII.java                       | ✅ Solved |
+| 10  | Jump Game II                           | Day-05/JumpGameII.java                       | ✅ Solved |
+| 11  | H-Index                                | Day-06/HIndex.java                           | ✅ Solved |
+| 12  | Insert-Delete-GetRandom                | Day-06/InsertDeleteGetRandom.java            | ✅ Solved |
 
 _This table will be updated as more solutions are added._
 
