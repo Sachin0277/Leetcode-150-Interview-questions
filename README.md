@@ -63,6 +63,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 12  | Insert-Delete-GetRandom                | Day-06/InsertDeleteGetRandom.java            | ✅ Solved |
 | 13  | Product of Array Except Self           | Day-07/ProductOfArrayExceptSelf.java         | ✅ Solved |
 | 14  | Gas Station                            | Day-07/GasStation.java                       | ✅ Solved |
+| 15  | Candy                                  | Day-08/Candy.java                            | ✅ Solved |
+| 16  | Trapping Rain Water                    | Day-08/TrappingRainWater.java                | ✅ Solved |
 
 _This table will be updated as more solutions are added._
 
