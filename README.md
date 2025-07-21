@@ -65,6 +65,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 14  | Gas Station                            | Day-07/GasStation.java                       | ✅ Solved |
 | 15  | Candy                                  | Day-08/Candy.java                            | ✅ Solved |
 | 16  | Trapping Rain Water                    | Day-08/TrappingRainWater.java                | ✅ Solved |
+| 17  | Roman To Integer                       | Day-09/RomanToInt.java                       | ✅ Solved |
+| 18  | Integer To Roman                       | Day-09/IntToRoman.java                       | ✅ Solved |
 
 _This table will be updated as more solutions are added._
 
