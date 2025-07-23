@@ -69,6 +69,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 18  | Integer To Roman                       | Day-09/IntToRoman.java                       | ✅ Solved |
 | 19  | Length of Last Word                    | Day-10/LengthOfLastWord.java                 | ✅ Solved |
 | 20  | Longest Common Prefix                  | Day-10/LongestCommonPrefix.java              | ✅ Solved |
+| 21  | Reverse Words of String                | Day-11/ReverseWordsOfString.java             | ✅ Solved |
+| 20  | ZigZag Conversion                      | Day-11/ZigZagConversion.java                 | ✅ Solved |
 
 _This table will be updated as more solutions are added._
 
