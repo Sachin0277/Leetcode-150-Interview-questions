@@ -70,8 +70,9 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 19  | Length of Last Word                    | Day-10/LengthOfLastWord.java                 | ✅ Solved |
 | 20  | Longest Common Prefix                  | Day-10/LongestCommonPrefix.java              | ✅ Solved |
 | 21  | Reverse Words of String                | Day-11/ReverseWordsOfString.java             | ✅ Solved |
-| 20  | ZigZag Conversion                      | Day-11/ZigZagConversion.java                 | ✅ Solved |
-
+| 22  | ZigZag Conversion                      | Day-11/ZigZagConversion.java                 | ✅ Solved |
+| 23  | Find The First Occurence of a string   | Day-12/FirstOccurenceOfAString.java          | ✅ Solved |
+| 24  | Text Justfication                      | Day-12/TextJustfication.java                 | ✅ Solved |
 _This table will be updated as more solutions are added._
 
 ## Contributing
