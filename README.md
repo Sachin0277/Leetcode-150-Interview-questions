@@ -73,6 +73,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 22  | ZigZag Conversion                      | Day-11/ZigZagConversion.java                 | ✅ Solved |
 | 23  | Find The First Occurence of a string   | Day-12/FirstOccurenceOfAString.java          | ✅ Solved |
 | 24  | Text Justfication                      | Day-12/TextJustfication.java                 | ✅ Solved |
+| 25  | Valid Palindrome                       | Day-12/ValidPalindrome.java                  | ✅ Solved |
+| 26  | Is Subsequence                         | Day-12/IsSubsequence.java                    | ✅ Solved |
 _This table will be updated as more solutions are added._
 
 ## Contributing
