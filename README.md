@@ -75,6 +75,8 @@ This repository contains solutions and explanations for the top 150 Leetcode int
 | 24  | Text Justfication                      | Day-12/TextJustfication.java                 | ✅ Solved |
 | 25  | Valid Palindrome                       | Day-12/ValidPalindrome.java                  | ✅ Solved |
 | 26  | Is Subsequence                         | Day-12/IsSubsequence.java                    | ✅ Solved |
+| 27  | Two Sum II - Array is sorted           | Day-12/TwoSumIIArrayIsSorted.java            | ✅ Solved |
+| 28  | Container With Most Water              | Day-12/ContainerWithMostWater.java           | ✅ Solved |
 _This table will be updated as more solutions are added._
 
 ## Contributing
